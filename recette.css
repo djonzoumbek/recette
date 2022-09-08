@@ -1,3 +1,6 @@
+*{
+    overflow: auto;
+}
 body{
     background-color: #8ba1bb;
     font-family: Arial;
@@ -134,7 +137,4 @@ table.preparation td.preparation_etape{
 }
 table.preparation tr{
     height: 40px;
-}
-*{
-    overflow: auto;
 }
